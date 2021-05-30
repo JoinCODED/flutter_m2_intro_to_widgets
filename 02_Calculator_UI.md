@@ -12,7 +12,7 @@ We will learn how to use these:
 
   
 
-<img src="https://user-images.githubusercontent.com/24327781/118665352-daa3d400-b7b7-11eb-9ecb-b4d8e3091a62.png" alt="img" style="zoom:33%;" />
+<img src="https://user-images.githubusercontent.com/24327781/118665352-daa3d400-b7b7-11eb-9ecb-b4d8e3091a62.png" alt="img" width="250" />
 
 
 
@@ -114,7 +114,7 @@ Container(
 
 
 
-<img src="https://user-images.githubusercontent.com/24327781/119705628-9ac79700-be1e-11eb-80e8-3a6ed548415b.gif" alt="FZ1GAQyKXe" style="zoom:50%;" />
+<img src="https://user-images.githubusercontent.com/24327781/119705628-9ac79700-be1e-11eb-80e8-3a6ed548415b.gif" alt="FZ1GAQyKXe" width="600" />
 
 
 
@@ -160,9 +160,9 @@ Here, we have one **Column** that takes four **Row** widgets, and the **Column**
 
 
 
-<img src="https://user-images.githubusercontent.com/24327781/119707322-a5832b80-be20-11eb-8738-43c0ce862592.png" alt="sMyG54cjeZ" style="zoom:50%;" />
+<img src="https://user-images.githubusercontent.com/24327781/119707322-a5832b80-be20-11eb-8738-43c0ce862592.png" alt="sMyG54cjeZ" width="600" />
 
-<img src="C:\Users\DHA\Documents\ShareX\Screenshots\2021-05\2AtOg6WzPq.png" alt="2AtOg6WzPq" style="zoom:50%;" />
+<img src="C:\Users\DHA\Documents\ShareX\Screenshots\2021-05\2AtOg6WzPq.png" alt="2AtOg6WzPq" width="600" />
 
 
 
@@ -186,7 +186,7 @@ Also, inside the **Row** widgets, we will have four **Container** widget, and th
 
    > Note: Use the shortcut [here]() to wrap the widget easily.
 
-<img src="https://user-images.githubusercontent.com/24327781/119709234-98ffd280-be22-11eb-83c3-a4305644ac29.gif" alt="J7QS02BfCf" style="zoom:50%;" />
+<img src="https://user-images.githubusercontent.com/24327781/119709234-98ffd280-be22-11eb-83c3-a4305644ac29.gif" alt="J7QS02BfCf" width="600" />
 
 
 
@@ -210,7 +210,7 @@ Container(
           ),
 ```
 
-<img src="https://user-images.githubusercontent.com/24327781/119709531-ee3be400-be22-11eb-8fe2-9b52f505c8cf.gif" alt="aDa4h5UPFr" style="zoom:50%;" />
+<img src="https://user-images.githubusercontent.com/24327781/119709531-ee3be400-be22-11eb-8fe2-9b52f505c8cf.gif" alt="aDa4h5UPFr" width="600" />
 
 
 
@@ -218,7 +218,7 @@ Container(
 
 11. We will use the **Column** widget to add other rows for our buttons. So, we need to wrap our **Row** widget with **Column** widget.
 
-<img src="https://user-images.githubusercontent.com/24327781/119709894-57bbf280-be23-11eb-916b-a567535266fd.gif" alt="sFphUz0oOe" style="zoom:50%;" />
+<img src="https://user-images.githubusercontent.com/24327781/119709894-57bbf280-be23-11eb-916b-a567535266fd.gif" alt="sFphUz0oOe" width="600" />
 
 
 
@@ -226,7 +226,7 @@ Container(
 
 12. Also, we will use **SafeArea** widget to avoid intrusions. So, we will add **SafeArea** widget on the top of our **Column** widget.
 
-<img src="https://user-images.githubusercontent.com/24327781/119710125-a073ab80-be23-11eb-996b-710fb8e3d866.gif" alt="l0roVko4rL" style="zoom:50%;" />
+<img src="https://user-images.githubusercontent.com/24327781/119710125-a073ab80-be23-11eb-996b-710fb8e3d866.gif" alt="l0roVko4rL" width="600" />
 
 
 
@@ -311,7 +311,7 @@ Container(
 
 
 
-<img src="https://user-images.githubusercontent.com/24327781/119711554-496ed600-be25-11eb-97c2-5c88845e3fc3.gif" alt="7VDEPb126g" style="zoom:50%;" />
+<img src="https://user-images.githubusercontent.com/24327781/119711554-496ed600-be25-11eb-97c2-5c88845e3fc3.gif" alt="7VDEPb126g" width="600" />
 
 
 
@@ -337,7 +337,7 @@ Container(
 
 
 
-<img src="https://user-images.githubusercontent.com/24327781/119712196-f77a8000-be25-11eb-85a7-7c944c458f62.png" alt="qemu-system-x86_64_rVedjCYZkP" style="zoom:50%;" />
+<img src="https://user-images.githubusercontent.com/24327781/119712196-f77a8000-be25-11eb-85a7-7c944c458f62.png" alt="qemu-system-x86_64_rVedjCYZkP" width="250" />
 
 
 
@@ -433,7 +433,7 @@ Row(
 
 
 
-<img src="https://user-images.githubusercontent.com/24327781/119712867-adde6500-be26-11eb-9dff-62202fd36661.gif" alt="TF0EB2b47z" style="zoom:50%;" />
+<img src="https://user-images.githubusercontent.com/24327781/119712867-adde6500-be26-11eb-9dff-62202fd36661.gif" alt="TF0EB2b47z" width="600" />
 
 
 
@@ -455,7 +455,7 @@ Row(
 
     > So, the final result:
 
-    <img src="https://user-images.githubusercontent.com/24327781/118665352-daa3d400-b7b7-11eb-9ecb-b4d8e3091a62.png" alt="img" style="zoom:33%;" />
+    <img src="https://user-images.githubusercontent.com/24327781/118665352-daa3d400-b7b7-11eb-9ecb-b4d8e3091a62.png" alt="img" width="250" />
 
     
 
@@ -464,7 +464,7 @@ Row(
     
     
     
-    
+    <br>
     <img src="https://media.giphy.com/media/xC2xDbvyN0tkT7EcPM/giphy.gif" style="zoom:50%;" >
     
     > **Important**: for the last **Row** widget, we remove one **Container**, and we resize the width for the zero container widget.
