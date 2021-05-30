@@ -9,7 +9,7 @@ We will learn how to use these new Widgets:
 **Row**
 **Container**
 
-<img src="https://user-images.githubusercontent.com/24327781/118644950-f00f0300-b7a3-11eb-8093-b97eb2819a3f.png" alt="img" style="zoom:33%;" />
+<img src="https://user-images.githubusercontent.com/24327781/118644950-f00f0300-b7a3-11eb-8093-b97eb2819a3f.png" alt="img" width="250" />
 
 
 
@@ -21,7 +21,7 @@ We will learn how to use these new Widgets:
 
 
 
-2. After that, we will remove all codes that inside **main.dart**, then we will copy the code down, and paste it inside **main.dart** file.
+2. After that, we will remove the code that is inside **main.dart**, then we will copy the code down, and paste it inside **main.dart** file.
 
 ```dart
 import 'package:flutter/material.dart';
@@ -59,7 +59,7 @@ class HomeScreen extends StatelessWidget {
 
 
 
-4. To change the background color for our home screen. We will use **backgroundColor** named argument that inside **Scaffold** widget.
+4. To change the background color for our home screen. We will use the **backgroundColor** named argument that inside the **Scaffold** widget.
 
 ```dart
 Scaffold(
@@ -67,7 +67,7 @@ Scaffold(
     );
 ```
 
-<img src="https://user-images.githubusercontent.com/24327781/119657008-00049380-bdf1-11eb-8f83-97f0c759da5d.gif" alt="kV7tt8uisA" style="zoom: 50%;" />
+<img src="https://user-images.githubusercontent.com/24327781/119657008-00049380-bdf1-11eb-8f83-97f0c759da5d.gif" alt="kV7tt8uisA"width="300" />
 
 
 
@@ -77,23 +77,21 @@ Scaffold(
 
 5. Now, we will add a cat image inside our app ^_^.
 
-<img src="https://raw.githubusercontent.com/Northwest-content/flutter_profile_page_app/main/assets/images/profile.png?token=AFZTMZMPTZSYHKF6DP5JOK3AVY5JY" style="zoom:50%;" >
 
 
-
-6. In order to display an image inside our app, first we need to create a new folder called **assets**, and inside this folder, we will create another folder called **images**; this folder will have all images that we will use it in our app. So, we will add the cat image inside **images** folder. 
+6. In order to display an image inside our app, first we need to create a new folder called **assets**, and inside this folder, we will create another folder called **images**; this folder will have all images that we will use it in our app. So, we will add the cat image inside the **images** folder. 
 
    > Download the image from this [link](https://raw.githubusercontent.com/Northwest-content/flutter_profile_page_app/main/assets/images/profile.png?token=AFZTMZMPTZSYHKF6DP5JOK3AVY5JY)
 
 
 
-<img src="https://user-images.githubusercontent.com/24327781/119657755-ec0d6180-bdf1-11eb-886e-66fb29913e61.gif" alt="Yqcpk8BMiB" style="zoom:50%;" />
+<img src="https://user-images.githubusercontent.com/24327781/119657755-ec0d6180-bdf1-11eb-886e-66fb29913e61.gif" alt="Yqcpk8BMiB" width="600" />
 
 
 
 
 
-7. After adding the image, we must tell the Flutter where is the path of the cat image. So, to do that we will edit the **pubspec.yaml** file. Inside this file, we will add the path for our cat image.
+7. After adding the image, we must tell the Flutter where the path of the cat image is. So, to do that we will edit the **pubspec.yaml** file. Inside this file, we will add the path for our cat image.
 
    > Note: when you add another new image, you will need to add its path down other image paths.
 
@@ -102,7 +100,7 @@ Scaffold(
      - assets/images/profile.png
    ```
 
-   <img src="https://user-images.githubusercontent.com/24327781/119658500-d3ea1200-bdf2-11eb-8b7f-c14e9c6562b1.png" alt="qmdhqrsmxo" style="zoom:50%;" />
+   <img src="https://user-images.githubusercontent.com/24327781/119658500-d3ea1200-bdf2-11eb-8b7f-c14e9c6562b1.png" alt="qmdhqrsmxo" width="600" />
 
 
 
@@ -120,13 +118,13 @@ Scaffold(
 
 
 
-9. **Important**: when edit **pubspec.yaml** file, you will need to rerun the app.
+9. **Important**: when you are editing **pubspec.yaml** file, you will need to rerun the app.
 
 
 
 
 
-10. To display the cat image, we will use **Image.asset** widget, this widget will helps us to show the image inside our app. Inside this widget, we will add our cat image path.
+10. To display the cat image, we will use the **Image.asset** widget, this widget will help us to show the image inside our app. Inside this widget, we will add our cat image path.
 
 ```dart
 Scaffold(
@@ -139,7 +137,7 @@ Scaffold(
 
 
 
-<img src="https://user-images.githubusercontent.com/24327781/119659652-fd576d80-bdf3-11eb-961e-35b61e86d385.gif" alt="J54xFIO8Zo" style="zoom:50%;" />
+<img src="https://user-images.githubusercontent.com/24327781/119659652-fd576d80-bdf3-11eb-961e-35b61e86d385.gif" alt="J54xFIO8Zo" width="600" />
 
 
 
@@ -171,7 +169,7 @@ Image.asset(
 
 
 
-12. Now, we want to show other information such as Name, Gender, and Hobbies.  As you know, this information will be a text, so we will use **Text** widget.
+12. Now, we want to show other information such as Name, Gender, and Hobbies.  As you know, this information will be a text, so we will use the **Text** widget.
 
 
 
@@ -179,11 +177,11 @@ Image.asset(
 
 13. To add these Widgets (Image widget, Name widget, Gender widget, Hobbies widget) from top to down, we will use a layout widget, called **Column**; This widget will help us to add any widgets from top to down.
 
-<img src="https://user-images.githubusercontent.com/24327781/119660674-21677e80-bdf5-11eb-940e-07c6d5bd05d1.png" alt="2EooCicdkK" style="zoom: 67%;" />
+<img src="https://user-images.githubusercontent.com/24327781/119660674-21677e80-bdf5-11eb-940e-07c6d5bd05d1.png" alt="2EooCicdkK" width="400" />
 
 
 
-14. So, we will wrap our car **image** widget with **Column** widget. Easily, you can use the shortcut [here]() that inside VSCode to wrap the widget.
+14. So, we will wrap our cat **image** widget with **Column** widget. Easily, you can use the shortcut [here]() that inside VSCode to wrap the widget.
 
 ```dart
 Column(
@@ -228,7 +226,7 @@ This is a layout widget, and you can use **Row** widget to add your widgets from
 
 
 
-15. In our case we will use **Column** widget, so we will add the text widgets (name, gender, and hobbies) inside Column. 
+15. In our case we will use the **Column** widget, so we will add the text widgets (name, gender, and hobbies) inside the Column. 
 
 ```dart
 Column(
@@ -251,7 +249,7 @@ Column(
       ),
 ```
 
-<img src="https://user-images.githubusercontent.com/24327781/119661642-1c56ff00-bdf6-11eb-9080-7c3ad11240da.png" alt="qemu-system-x86_64_CC2EZ4L7L4" style="zoom: 67%;" />
+<img src="https://user-images.githubusercontent.com/24327781/119661642-1c56ff00-bdf6-11eb-9080-7c3ad11240da.png" alt="qemu-system-x86_64_CC2EZ4L7L4" width="200" />
 
 
 
@@ -283,7 +281,7 @@ Column(
 
     
 
-17. We will use **SafeArea** widget to avoid intrusions. So, we will add **SafeArea** widget on the top of our **Column** widget.
+17. We will use the **SafeArea** widget to avoid intrusions. So, we will add **SafeArea** widget on the top of our **Column** widget.
 
     > Note: Use the shortcut [here]() to wrap the widget easily.
 
@@ -332,7 +330,7 @@ There are many use cases for Container widget. We will get to know them in futur
 
 
 
-18. We can use the **Container** widget, to align the widget inside the layout widget such as **Column** and **Row** widgets.  In our case, we will align our image widget to be in the center of the home screen. So, we will **alignment** named argument inside **Container** widget, and this named arguments take **Alignment** object.
+18. We can use the **Container** widget, to align the widget inside the layout widget such as **Column** and **Row** widgets.  In our case, we will align our image widget to be in the center of the home screen. So, we will **alignment** named argument inside the **Container** widget, and this named argument takes the **Alignment** object.
 
     ```dart
     Container(
@@ -345,7 +343,7 @@ There are many use cases for Container widget. We will get to know them in futur
                 )
     ```
 
-<img src="https://user-images.githubusercontent.com/24327781/119666042-9b4e3680-bdfa-11eb-95f1-1d6ed3b60f51.gif" alt="J3WzhOtVz1" style="zoom:50%;" />
+<img src="https://user-images.githubusercontent.com/24327781/119666042-9b4e3680-bdfa-11eb-95f1-1d6ed3b60f51.gif" alt="J3WzhOtVz1" width="600" />
 
 
 
@@ -391,7 +389,7 @@ There are many use cases for Container widget. We will get to know them in futur
 
 The final result:
 
-<img src="https://user-images.githubusercontent.com/24327781/119666521-10217080-bdfb-11eb-87aa-9e037fff762d.png" alt="qemu-system-x86_64_8qQwX6Jr0X" style="zoom:67%;" />
+<img src="https://user-images.githubusercontent.com/24327781/119666521-10217080-bdfb-11eb-87aa-9e037fff762d.png" alt="qemu-system-x86_64_8qQwX6Jr0X" width="250" />
 
 
 
@@ -405,7 +403,7 @@ The final result:
 
 So, in our case we will add margin for our image, and padding for the text widgets.
 
-> Note: if you want add margin, you need to use **margin** named argument inside the **Container** widget, and if you want to add padding you will use **padding** named argument inside the **Container** widget. Both of these named arguments take **EdgeInsets** object.
+> Note: if you want to add margin, you need to use **margin** named argument inside the **Container** widget, and if you want to add padding you will use **padding** named argument inside the **Container** widget. Both of these named arguments take **EdgeInsets** object.
 
 
 
@@ -457,7 +455,7 @@ Column(
 
 21. The last thing, we don't like the style of our text widgets. 
 
-    <img src="https://media.giphy.com/media/67SXeoc8RLwvqCwn2F/giphy.gif">
+<img src="https://media.giphy.com/media/67SXeoc8RLwvqCwn2F/giphy.gif">
 
     
 
@@ -531,7 +529,7 @@ Scaffold(
 
 The final result  :
 
-<img src="https://user-images.githubusercontent.com/24327781/119668114-7f4b9480-bdfc-11eb-92d5-46a9eb56bc0c.png" alt="qemu-system-x86_64_ePpJIkLnbV" style="zoom:67%;" />
+<img src="https://user-images.githubusercontent.com/24327781/119668114-7f4b9480-bdfc-11eb-92d5-46a9eb56bc0c.png" alt="qemu-system-x86_64_ePpJIkLnbV" width="200" />
 
 
 
