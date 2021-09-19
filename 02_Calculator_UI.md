@@ -12,7 +12,7 @@ We will learn how to use these:
 
   
 
-<img src="https://user-images.githubusercontent.com/24327781/118665352-daa3d400-b7b7-11eb-9ecb-b4d8e3091a62.png" alt="img" width="250" />
+<img src="https://user-images.githubusercontent.com/24327781/133928283-eab43fd9-056a-40a6-9890-f61221d12c92.png" alt="img" width="250" />
 
 
 
@@ -977,8 +977,9 @@ Container(
 ​    2 -  Thickness (bold) the text. 
 
 
+the final result: 
 
-
+<img src="https://user-images.githubusercontent.com/24327781/133928283-eab43fd9-056a-40a6-9890-f61221d12c92.png" alt="img" width="250" />
 
 
 
