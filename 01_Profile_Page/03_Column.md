@@ -30,5 +30,5 @@ Column(
     )
 ```
 
-> Note: Column widget takes **children** named argument, and inside children, we will add the widgets that we want to show it from top to bottom. So, the first widget inside the children will be at the top, and the last one will be at the bottom.
+> Note: **Column** widget takes **children** named argument, and inside children, we will add the widgets that we want to show it from top to bottom. So, the first widget inside the children will be at the top, and the last one will be at the bottom.
 
