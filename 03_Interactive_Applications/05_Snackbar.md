@@ -2,13 +2,12 @@
 
 This is a **Snack Bar** (with a space between each word)
 
-<img src="https://lh6.googleusercontent.com/ftGxvA6qwZd3OBkYPwIppox_FO1VOGPeQZrJ6tuX95naDCcM-l6Gi_Sn0XqPGuNUICParM7YChRSE1rTk_Fml51UzbdILe-vlfAlKSrnfPvrxZPKdsGL2pCwt6V0BaXx1fXq419j" alt="img" style="zoom:50%;" />
+<img src="https://lh6.googleusercontent.com/ftGxvA6qwZd3OBkYPwIppox_FO1VOGPeQZrJ6tuX95naDCcM-l6Gi_Sn0XqPGuNUICParM7YChRSE1rTk_Fml51UzbdILe-vlfAlKSrnfPvrxZPKdsGL2pCwt6V0BaXx1fXq419j" alt="img" width="350" />
 
 And this is a `Snackbar` (with no space between each word)
 
+<img src="https://lh3.googleusercontent.com/JXkJKPz2bTfeDIyotbe8071bUCf92mWOIT_0CVNDWxRcaCRl4Em0eATgdcmbDvzUstwGOJWS2y7L4Dfapp_lEZYeGCccCWxo69eucj7JlvdY-gjrF-DE_-1cl0VzQ56RGVZ3dSgF" alt="img" width="500" />
 
-
-![img](https://lh3.googleusercontent.com/JXkJKPz2bTfeDIyotbe8071bUCf92mWOIT_0CVNDWxRcaCRl4Em0eATgdcmbDvzUstwGOJWS2y7L4Dfapp_lEZYeGCccCWxo69eucj7JlvdY-gjrF-DE_-1cl0VzQ56RGVZ3dSgF)
 
 
 
@@ -18,8 +17,8 @@ A **snackbar** is a useful way to briefly inform your users when certain actions
 
 To make a launch a snackbar:
 
-	1. Make sure you have a **Scaffold**.
-	1. Display a **SnackBar**.
+1. Make sure you have a **Scaffold**.
+1. Display a **SnackBar**.
 
 
 
@@ -67,9 +66,8 @@ class MyHomePage extends StatelessWidget {
 
 Save now. Voilà! 
 
+<img src="https://lh6.googleusercontent.com/r9LWmxCWEJMsqffram4OLMNaDFarVONoLmjasFtB9RQHRt4iX6LNYQBv-xha9lESZbejptYltrtO_BlbeI99DmTWiLps8KkqRlA5rlaQxb2nbY3nvwNbN5IpIR2KglG_OzRYAQGC" alt="img" width="300" />
 
-
-**![img](https://lh6.googleusercontent.com/r9LWmxCWEJMsqffram4OLMNaDFarVONoLmjasFtB9RQHRt4iX6LNYQBv-xha9lESZbejptYltrtO_BlbeI99DmTWiLps8KkqRlA5rlaQxb2nbY3nvwNbN5IpIR2KglG_OzRYAQGC)**
 
 
 
