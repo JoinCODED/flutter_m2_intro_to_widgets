@@ -82,8 +82,7 @@ The final result:
 20. The other use case for the **Container** widget is to add a **margin** and **padding** between the Container widget and its child.
 
 
-
-![chrome_8MS83Z9ofk](https://user-images.githubusercontent.com/24327781/119667023-86be6e00-bdfb-11eb-96e0-43c32f132a7e.png)
+<img src="https://user-images.githubusercontent.com/24327781/119667023-86be6e00-bdfb-11eb-96e0-43c32f132a7e.png" alt="img" width="300" />
 
 
 
