@@ -40,6 +40,6 @@ The number that's incrementing is just telling that this line has been printed t
 
 In case you couldn't see the debug console, 
 
-	1. Make sure you are running the app from the app top menu `Run > Run without debugging` 
-	1. Make sure you opened the debug console window by going to`View > Debug Console`
+1. Make sure you are running the app from the app top menu `Run > Run without debugging` 
+1. Make sure you opened the debug console window by going to`View > Debug Console`
 
