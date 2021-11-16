@@ -10,9 +10,8 @@
 
    >  Download the image from this [link](https://raw.githubusercontent.com/Northwest-content/flutter_profile_page_app/main/assets/images/profile.png?token=AFZTMZMPTZSYHKF6DP5JOK3AVY5JY)
 
+<img src="https://lh3.googleusercontent.com/q9z8pe0FK5HetzPBcSQfPC82p4DqgT2oQkpiapuLsz88XMTmBH_f0fX8arjJ8E7ChEzEStoS9hme-i6U4NoMGLvx5Lrunl-2fgIb6fYBv8Ds1hnlAnWk5rpJX1fr-OzvphlML1Pf" alt="img" width="700" />
 
-
-![Yqcpk8BMiB](https://lh3.googleusercontent.com/q9z8pe0FK5HetzPBcSQfPC82p4DqgT2oQkpiapuLsz88XMTmBH_f0fX8arjJ8E7ChEzEStoS9hme-i6U4NoMGLvx5Lrunl-2fgIb6fYBv8Ds1hnlAnWk5rpJX1fr-OzvphlML1Pf)
 
 
 
@@ -36,8 +35,7 @@
 > Note: if save **pubspec.yaml**, the vscode will pop up this dialog
 
 
-
-![Code_lnAMt3lPcE](https://lh5.googleusercontent.com/279IAwnenB5NeEEXtFDFdHocHr_EGSds8cEP7Tg95gPqXKTYQ14O0Kw_bUHDmUXci4alRV-HmXHH4IcThXy-6aaFRCZI4Tulbv0bzPultstu4x76RfaFuoUM4SUVNUHFcXz7oX_K)
+<img src="https://lh5.googleusercontent.com/279IAwnenB5NeEEXtFDFdHocHr_EGSds8cEP7Tg95gPqXKTYQ14O0Kw_bUHDmUXci4alRV-HmXHH4IcThXy-6aaFRCZI4Tulbv0bzPultstu4x76RfaFuoUM4SUVNUHFcXz7oX_K" alt="img" width="400" />
 
 
 
@@ -59,9 +57,7 @@ Scaffold(
 ```
 
 
-
-![J54xFIO8Zo](https://lh3.googleusercontent.com/8YTTYo04fZZA-yzSqj_axwZ2nlinSXjtGGdY6MoALcLZROdwWxbzU_zPzzK-wKWGSzBHwnPkAU25403KhFaDhExgVlfevfP-stNvT9QBOdcn6OwnXZZUCmN6DO7gfjPRQDXFcp4x)
-
+<img src="https://lh3.googleusercontent.com/8YTTYo04fZZA-yzSqj_axwZ2nlinSXjtGGdY6MoALcLZROdwWxbzU_zPzzK-wKWGSzBHwnPkAU25403KhFaDhExgVlfevfP-stNvT9QBOdcn6OwnXZZUCmN6DO7gfjPRQDXFcp4x" alt="img" width="700" />
 
 
 
