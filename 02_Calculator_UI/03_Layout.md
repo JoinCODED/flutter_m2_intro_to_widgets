@@ -18,7 +18,8 @@ Here, we have one **Column** that takes four **Row** widgets, and the **Column**
 
 Also, inside the **Row** widgets, we will have four **Container** widget, and the **Row** widget will lay out these **Container** widgets from left to right. Here we just explain the first row, but we will repeat these steps for other rows. 
 
- ![dSxkFfkKYa](https://user-images.githubusercontent.com/24327781/119708028-73be9480-be21-11eb-8699-a0988739ce2f.png)
+  
+![dSxkFfkKYa](https://user-images.githubusercontent.com/24327781/119708028-73be9480-be21-11eb-8699-a0988739ce2f.png)
 
 
 
