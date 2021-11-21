@@ -25,7 +25,7 @@ Row(children: [
 
 That will show these text widgets from left to right, same as the picture down
 
-<img src="https://lh5.googleusercontent.com/os-d_wqbv1zHz_bvOfCDCdMHN06Am6MShgsBK0jHnl9YkEEYC21_M7yGK3ShrjHbbbwzwORvNB7aPF9cCrKz0YHdWoV9wIhW54pqrfimVz_HaigFKLd98-7K2Z54hc29xLjfTNVy" alt="img" width="200" />
+![screenshot](https://lh5.googleusercontent.com/os-d_wqbv1zHz_bvOfCDCdMHN06Am6MShgsBK0jHnl9YkEEYC21_M7yGK3ShrjHbbbwzwORvNB7aPF9cCrKz0YHdWoV9wIhW54pqrfimVz_HaigFKLd98-7K2Z54hc29xLjfTNVy)
 
 
 
@@ -54,7 +54,7 @@ Column(
 
 
 
-<img src="https://lh5.googleusercontent.com/QZEzYmQFrm308dmIIUTGsMzknU-WsGngcNywz3f2-SUnW9tT-1f3eEP55uw4V-ByfaEtb_sieFSVHOCJrgnvxRSxa3HYi3kPJKTJQJ2QoGAkxJKGb0OqPczIBy0Y0YuLgqa9Z9F3" alt="qemu-system-x86_64_CC2EZ4L7L4" width="250" />
+![screenshot](https://lh5.googleusercontent.com/QZEzYmQFrm308dmIIUTGsMzknU-WsGngcNywz3f2-SUnW9tT-1f3eEP55uw4V-ByfaEtb_sieFSVHOCJrgnvxRSxa3HYi3kPJKTJQJ2QoGAkxJKGb0OqPczIBy0Y0YuLgqa9Z9F3)
 
 
 
@@ -63,7 +63,7 @@ Column(
 
 
 16. To change the alignment of our widgets, we can use **mainAxisAlignment** named arguments inside the **Column** widget. The **mainAxisAlignment** named argument tales **MainAxisAlignment** object. In our case, we will use the start one **MainAxisAlignment.start**.
-<img src="https://lh5.googleusercontent.com/xwkK3tUDTEF8oSsQ5VLngVu-6lUQWy60XoopIIBOMVsgnbjrF1yJt-h5DfFyIkjcGPbNulL9Ixw623Nl9WTBuhPjECVXdSHt73CmuApNqV9K3Ayp9w5y5zRzOLOvro7Jtk0dv5OZ" alt="img" width="200" />
+![screenshot](https://lh5.googleusercontent.com/xwkK3tUDTEF8oSsQ5VLngVu-6lUQWy60XoopIIBOMVsgnbjrF1yJt-h5DfFyIkjcGPbNulL9Ixw623Nl9WTBuhPjECVXdSHt73CmuApNqV9K3Ayp9w5y5zRzOLOvro7Jtk0dv5OZ)
 
 
 

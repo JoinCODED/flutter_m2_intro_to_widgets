@@ -10,9 +10,9 @@
 
 Here, we have one **Column** that takes four **Row** widgets, and the **Column** will lay out these Row widgets from top to down.
 
-<img src="https://user-images.githubusercontent.com/24327781/119707322-a5832b80-be20-11eb-8738-43c0ce862592.png" alt="sMyG54cjeZ" width="600" />
+![screenshot](https://user-images.githubusercontent.com/24327781/119707322-a5832b80-be20-11eb-8738-43c0ce862592.png)
 
-<img src="C:\Users\DHA\Documents\ShareX\Screenshots\2021-05\2AtOg6WzPq.png" alt="2AtOg6WzPq" width="600" />
+![screenshot](C:\Users\DHA\Documents\ShareX\Screenshots\2021-05\2AtOg6WzPq.png)
 
 
 
@@ -28,7 +28,7 @@ Also, inside the **Row** widgets, we will have four **Container** widget, and th
 
 
 
-<img src="https://user-images.githubusercontent.com/24327781/119709234-98ffd280-be22-11eb-83c3-a4305644ac29.gif" alt="J7QS02BfCf" width="600" />
+![screenshot](https://user-images.githubusercontent.com/24327781/119709234-98ffd280-be22-11eb-83c3-a4305644ac29.gif)
 
 
 
@@ -56,19 +56,19 @@ Container(
 
 
 
-<img src="https://user-images.githubusercontent.com/24327781/119709531-ee3be400-be22-11eb-8fe2-9b52f505c8cf.gif" alt="aDa4h5UPFr" width="600" />
+![screenshot](https://user-images.githubusercontent.com/24327781/119709531-ee3be400-be22-11eb-8fe2-9b52f505c8cf.gif)
 
 
 
 11. We will use the **Column** widget to add other rows for our buttons. So, we need to wrap our **Row** widget with **Column** widget.
 
-<img src="https://user-images.githubusercontent.com/24327781/119709894-57bbf280-be23-11eb-916b-a567535266fd.gif" alt="sFphUz0oOe" width="600" />
+![screenshot](https://user-images.githubusercontent.com/24327781/119709894-57bbf280-be23-11eb-916b-a567535266fd.gif)
 
 
 
 12. Also, we will use **SafeArea** widget to avoid intrusions. So, we will add **SafeArea** widget on the top of our **Column** widget.
 
-<img src="https://user-images.githubusercontent.com/24327781/119710125-a073ab80-be23-11eb-996b-710fb8e3d866.gif" alt="l0roVko4rL" width="600" />
+![screenshot](https://user-images.githubusercontent.com/24327781/119710125-a073ab80-be23-11eb-996b-710fb8e3d866.gif)
 
 
 
@@ -149,7 +149,7 @@ Container(
 
 
 
-<img src="https://user-images.githubusercontent.com/24327781/119712196-f77a8000-be25-11eb-85a7-7c944c458f62.png" alt="qemu-system-x86_64_rVedjCYZkP" width="250" />
+![screenshot](https://user-images.githubusercontent.com/24327781/119712196-f77a8000-be25-11eb-85a7-7c944c458f62.png)
 
 
 
@@ -237,9 +237,9 @@ Row(
 
 20. Then, repeat it inside the **Column** widget four times. 
 
-<img src="https://user-images.githubusercontent.com/24327781/119712867-adde6500-be26-11eb-9dff-62202fd36661.gif" alt="TF0EB2b47z" width="600" />
+![screenshot](https://user-images.githubusercontent.com/24327781/119712867-adde6500-be26-11eb-9dff-62202fd36661.gif)
 
-<img src="https://media.giphy.com/media/XbxZ41fWLeRECPsGIJ/giphy.gif">
+![screenshot](https://media.giphy.com/media/XbxZ41fWLeRECPsGIJ/giphy.gif)
 
 
 
@@ -255,13 +255,13 @@ So, the final result:
 
 
 
-<img src="https://user-images.githubusercontent.com/24327781/118665352-daa3d400-b7b7-11eb-9ecb-b4d8e3091a62.png" alt="img" width="250" />
+![screenshot](https://user-images.githubusercontent.com/24327781/118665352-daa3d400-b7b7-11eb-9ecb-b4d8e3091a62.png)
 
 
 
 
 
-<img src="https://media.giphy.com/media/xC2xDbvyN0tkT7EcPM/giphy.gif" style="zoom:50%;" >
+![screenshot](https://media.giphy.com/media/xC2xDbvyN0tkT7EcPM/giphy.gif)
 
 
 

@@ -23,7 +23,7 @@ Container(
 
 
 
-<img src="https://user-images.githubusercontent.com/24327781/119705628-9ac79700-be1e-11eb-80e8-3a6ed548415b.gif" alt="FZ1GAQyKXe" width="600" />
+![screenshot](https://user-images.githubusercontent.com/24327781/119705628-9ac79700-be1e-11eb-80e8-3a6ed548415b.gif)
 
 
 

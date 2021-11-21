@@ -19,7 +19,7 @@ Container(
 
 
 
-<img src="https://user-images.githubusercontent.com/24327781/119666042-9b4e3680-bdfa-11eb-95f1-1d6ed3b60f51.gif" alt="J3WzhOtVz1" width="600" />
+![screenshot](https://user-images.githubusercontent.com/24327781/119666042-9b4e3680-bdfa-11eb-95f1-1d6ed3b60f51.gif)
 
 
 
@@ -71,7 +71,7 @@ The final result:
 
 
 
-<img src="https://user-images.githubusercontent.com/24327781/119666521-10217080-bdfb-11eb-87aa-9e037fff762d.png" alt="qemu-system-x86_64_8qQwX6Jr0X" width="250" />
+![screenshot](https://user-images.githubusercontent.com/24327781/119666521-10217080-bdfb-11eb-87aa-9e037fff762d.png)
 
 
 
@@ -82,7 +82,7 @@ The final result:
 20. The other use case for the **Container** widget is to add a **margin** and **padding** between the Container widget and its child.
 
 
-<img src="https://user-images.githubusercontent.com/24327781/119667023-86be6e00-bdfb-11eb-96e0-43c32f132a7e.png" alt="img" width="300" />
+![screenshot](https://user-images.githubusercontent.com/24327781/119667023-86be6e00-bdfb-11eb-96e0-43c32f132a7e.png)
 
 
 
@@ -138,7 +138,7 @@ Column(
 
     
 
-<img src="https://media.giphy.com/media/67SXeoc8RLwvqCwn2F/giphy.gif">
+![screenshot](https://media.giphy.com/media/67SXeoc8RLwvqCwn2F/giphy.gif)
 
 
 
@@ -212,7 +212,7 @@ The final result  :
 
 
 
-<img src="https://user-images.githubusercontent.com/24327781/119668114-7f4b9480-bdfc-11eb-92d5-46a9eb56bc0c.png" alt="qemu-system-x86_64_ePpJIkLnbV" width="200" />
+![screenshot](https://user-images.githubusercontent.com/24327781/119668114-7f4b9480-bdfc-11eb-92d5-46a9eb56bc0c.png)
 
 
 
@@ -220,7 +220,7 @@ The final result  :
 
 Finally, 
 
-<img src="https://media.giphy.com/media/XbxZ41fWLeRECPsGIJ/giphy.gif">
+![screenshot](https://media.giphy.com/media/XbxZ41fWLeRECPsGIJ/giphy.gif)
 
 
 

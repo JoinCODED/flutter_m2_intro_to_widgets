@@ -19,7 +19,7 @@ We will learn how to use these new Widgets:
 
 
 
-**<img src="https://lh3.googleusercontent.com/bMdRK6Oi9Im6VUexQhh9OmblbdvFM6af2CI0qClG9eRpYlsdGfiI7YQg-uZluPfpqJAJSTRyakJD-E0hP8BIn28aszVhZ2rjxov-jBdOXr6OMEATSp46xP75lckrlZqUps8j0cJX" alt="img" width="250" />**
+**![screenshot](https://lh3.googleusercontent.com/bMdRK6Oi9Im6VUexQhh9OmblbdvFM6af2CI0qClG9eRpYlsdGfiI7YQg-uZluPfpqJAJSTRyakJD-E0hP8BIn28aszVhZ2rjxov-jBdOXr6OMEATSp46xP75lckrlZqUps8j0cJX)**
 
 
 
@@ -79,7 +79,7 @@ We will learn how to use these new Widgets:
 
    
 
-<img src="https://lh4.googleusercontent.com/XrRHQChoKH7yiGvlvgXqTlAIA5mYgpmMsumiklq4Rd-D4oCEk0ugTwo9p7vw04fg6OyqfryCrHKk-dAsBg1PZLfuEQ0RlW0tZQfZzLzvtKCWHXMsTLPX-QC6NyGRfldnBfWashAX" alt="img" width="750" />
+![screenshot](https://lh4.googleusercontent.com/XrRHQChoKH7yiGvlvgXqTlAIA5mYgpmMsumiklq4Rd-D4oCEk0ugTwo9p7vw04fg6OyqfryCrHKk-dAsBg1PZLfuEQ0RlW0tZQfZzLzvtKCWHXMsTLPX-QC6NyGRfldnBfWashAX)
 
 
 

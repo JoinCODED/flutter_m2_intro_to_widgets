@@ -31,7 +31,7 @@ Go back to **Visual Studio Code**.
 
 
 Check the debug console on the bottom of the **VSCode** screen. </br>
-<img src="https://lh5.googleusercontent.com/m5OWIGI3s-a2KkLTOnrvNTu_tiyc7qBxmEkhc_k8gVmMU8QUPcTfdHYgn1olDdSvntn-Kx88POk9GhZPwA14IuHXqqkKKks2muEO9NYJS7DLqKoaqo_J7LJx5tsovIG4vgLMma7p" alt="img" width="700" />
+![screenshot](https://lh5.googleusercontent.com/m5OWIGI3s-a2KkLTOnrvNTu_tiyc7qBxmEkhc_k8gVmMU8QUPcTfdHYgn1olDdSvntn-Kx88POk9GhZPwA14IuHXqqkKKks2muEO9NYJS7DLqKoaqo_J7LJx5tsovIG4vgLMma7p)
 
 
 

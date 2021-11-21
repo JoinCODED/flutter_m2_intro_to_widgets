@@ -9,7 +9,7 @@
 13. To add these Widgets (Image widget, Name widget, Gender widget, Hobbies widget) from top to down, we will use a layout widget, called **Column**; This widget will help us to add any widgets from top to down.
 
 
-<img src="https://lh4.googleusercontent.com/DPzKxyPdRA8SzxucTXXFo7hdRDQtod3MDF2Pw-1cbb50-2Mk_fHzaU2rA_Ilo62K8cP_TjufEyEGlXQKyFjMIWKe-uYH-4aMCfN63hYZ6V27cAIO7JbCZmyhGHGHt3aYHuPWjp-M" alt="img" width="500" />
+![screenshot](https://lh4.googleusercontent.com/DPzKxyPdRA8SzxucTXXFo7hdRDQtod3MDF2Pw-1cbb50-2Mk_fHzaU2rA_Ilo62K8cP_TjufEyEGlXQKyFjMIWKe-uYH-4aMCfN63hYZ6V27cAIO7JbCZmyhGHGHt3aYHuPWjp-M)
 
 
 
