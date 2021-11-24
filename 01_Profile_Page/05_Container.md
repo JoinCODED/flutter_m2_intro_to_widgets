@@ -1,4 +1,3 @@
-# **Container**
 
 There are many use cases for **Container** widget. We will get to know them in future lessons. But now we will learn about two cases of use.
 

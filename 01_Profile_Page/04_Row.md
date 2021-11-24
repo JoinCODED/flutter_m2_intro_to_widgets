@@ -1,4 +1,3 @@
-# Row
 
 This is a layout widget, and you can use the **Row** widget to add your widgets from left to right.
 

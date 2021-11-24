@@ -1,4 +1,3 @@
-# Snackbar
 
 This is a **Snack Bar** (with a space between each word)
 

@@ -1,4 +1,3 @@
-# Profile Page
 
 In this module, we will dig deeper into flutter widgets and we'll learn with that some basic usages of Dart language. by the end of this module, you'll be able to create dynamic applications using Dart language that can do calculations and some functionalities. 
 

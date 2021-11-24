@@ -1,4 +1,3 @@
-# Interactive Applications
 
 So we've seen how to create amazing user interfaces using the main layout widgets `Column`, `Row`, `Center`, `Continer` and others. But how can we make things interactive? 
 

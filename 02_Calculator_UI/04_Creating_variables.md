@@ -1,4 +1,3 @@
-# Creating variables
 
 If you see the text style for some of the **Text** widgets, you will note that we were repeating the code many times; the best practice is to make one variable that has the **TextStyle** object and use it inside our Text widgets.  
 

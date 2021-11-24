@@ -1,4 +1,3 @@
-# Calculator UI 
 
 In this lesson, we will create a Calculator UI. 
 
