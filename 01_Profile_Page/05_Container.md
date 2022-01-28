@@ -1,9 +1,6 @@
+There are many use cases for **`Container`** widget. We will get to know them in future lessons. But now we will learn about two use cases.
 
-There are many use cases for **Container** widget. We will get to know them in future lessons. But now we will learn about two cases of use.
-
-
-
-18. We can use the **Container** widget, to align the widget inside the layout widget such as **Column** and **Row** widgets. In our case, we will align our image widget to be in the center of the home screen. So, we will **alignment** named argument inside the Container widget, and this named argument takes the **Alignment** object.
+1. We can use the **`Container`** widget, to align the widget inside the layout widget such as **`Column`** and **`Row`** widgets. In our case, we will align our image widget to be in the center of the home screen. So, we will use **`alignment`** named argument inside the Container widget, and this named argument takes the **`Alignment`** object.
 
 ```dart
 Container(
@@ -16,17 +13,9 @@ Container(
             )
 ```
 
-
-
 ![screenshot](https://user-images.githubusercontent.com/24327781/119666042-9b4e3680-bdfa-11eb-95f1-1d6ed3b60f51.gif)
 
-
-
-
-
-19. Also, we will use the **Container** widget to align other text widgets, and we will keep them on left screen.
-
-
+2. Also, we will use the **Container** widget to align other text widgets, and we will keep them on left screen.
 
 ```dart
  Column(
@@ -62,34 +51,17 @@ Container(
         ),
 ```
 
-
-
-
-
 The final result:
-
-
 
 ![screenshot](https://user-images.githubusercontent.com/24327781/119666521-10217080-bdfb-11eb-87aa-9e037fff762d.png)
 
-
-
-
-
-
-
-20. The other use case for the **Container** widget is to add a **margin** and **padding** between the Container widget and its child.
-
+3. The other use case for the **`Container`** widget is to add a **`margin`** and **`padding`** between the Container widget and its child.
 
 ![screenshot](https://user-images.githubusercontent.com/24327781/119667023-86be6e00-bdfb-11eb-96e0-43c32f132a7e.png)
 
-
-
 So, in our case we will add margin for our image, and padding for the text widgets.
 
-> Note: if you want to add margin, you need to use **margin** named argument inside the **Container** widget, and if you want to add padding you will use **padding** named argument inside the **Container** widget. Both of these named arguments take **EdgeInsets** object.
-
-
+> Note: if you want to add margin, you need to use **`margin`** named argument inside the **`Container`** widget, and if you want to add padding you will use **`padding`** named argument inside the **`Container`** widget. Both of these named arguments take **`EdgeInsets`** object.
 
 ```dart
 Column(
@@ -129,21 +101,11 @@ Column(
         ),
 ```
 
-
-
-
-
-21. The last thing, we don't like the style of our text widgets. 
-
-    
+4. The last thing, we don't like the style of our text widgets.
 
 ![screenshot](https://media.giphy.com/media/67SXeoc8RLwvqCwn2F/giphy.gif)
 
-
-
-So, we will change them by using the **TextStyle** object inside **Text** widget. 
-
-
+So, we will change them by using the **`TextStyle`** object inside **`Text`** widget.
 
 ```dart
 Scaffold(
@@ -203,31 +165,12 @@ Scaffold(
     )
 ```
 
-
-
-
-
-The final result  :
-
-
+The final result :
 
 ![screenshot](https://user-images.githubusercontent.com/24327781/119668114-7f4b9480-bdfc-11eb-92d5-46a9eb56bc0c.png)
 
-
-
-
-
-Finally, 
+Finally,
 
 ![screenshot](https://media.giphy.com/media/XbxZ41fWLeRECPsGIJ/giphy.gif)
 
-
-
 > **Note: You can find the full source code [here](https://github.com/Northwest-content/flutter_profile_page_app).**
-
-
-
-
-
-
-
