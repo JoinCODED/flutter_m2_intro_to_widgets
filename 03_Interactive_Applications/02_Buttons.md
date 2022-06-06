@@ -1,12 +1,15 @@
 ![screenshot](https://lh3.googleusercontent.com/fYHrszVlofKouua7Oy3Wsa3CujcWI0l_PuqPlDXmLvCrZeCNRpQ70xNYTklZFh1MJfOeBe4xKV3tRnLSrt6kVsRjMQxFBwCzs8FjuwPGswCEtpoIL-8U7-6qvZQCqLlNQbkcHrq_)
 
-You can see buttons everywhere, a button to send a message, a button to call a friend, and a button to share an instagram story with a friend. After you tap the button you expect the application to respond with some sort of actions, like navigate you to another screen, or does something in the screen. We call this action a `function`, and we're going to learn in this module how to create functions.
+You can see buttons everywhere: a button to send a message, a button to call a friend, and a button to share an Instagram story with a friend. After you press the button, you expect the application to respond with some sort of action, like navigating you to another screen or doing something on the screen. We call this action a function, and in this module, we're going to learn how to create functions.
 
-We have different types of buttons, and the most important ones are:
+In Flutter, there are various types of buttons, and the most important ones are:
 
 1. **Elevated button**
 2. **Text button**
 3. **Outlined button**
+
+All these buttons have a different design but a common behavior. Since they all require two arguments: `onPressed`, and `child`. 
+Now, Let's start with the second one, **`TextButton`**:
 
 ```dart
 @override
@@ -16,8 +19,7 @@ We have different types of buttons, and the most important ones are:
    );
  }
 ```
-
-Now you need to fill 2 things, **onPressed**, and **child**. let's start with the child. Add a simple **Text** widget.
+We have to pass a Widget to the `child`, typically a `Text` widget or an `Icon` widget. Let's go with the `Text` widget, which displays the label of the button:
 
 ```dart
 @override
@@ -28,7 +30,7 @@ Now you need to fill 2 things, **onPressed**, and **child**. let's start with th
  }
 ```
 
-Now if you try to run the app, it wouldn't work. You need to give `onPressed` a proper value. For now just add this `(){}`. Calm down, calm down! I know, I know, it looks weird. But just hang on there. We're gonna explain what this is, just let the app work!
+Now, if you try to run the app, it would not work, because you have to pass a proper value to `onPressed`. For now, just add this `(){}`. Calm down, calm down! I know, I know, it looks weird, just hang in there, we are going to explain what this is, just let the app work!
 
 ```dart
 class MyHomePage extends StatelessWidget {
@@ -49,3 +51,4 @@ class MyHomePage extends StatelessWidget {
 Now save, YUPPPEEE it's wooooorrkiiiing! 🤩
 
 We have an amazing beautiful button!
+<!-- It would be nice if we add some references for the buttons in flutter -->

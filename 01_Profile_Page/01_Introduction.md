@@ -1,15 +1,11 @@
 
-In this module, we will dig deeper into flutter widgets and we'll learn with that some basic usages of Dart language. by the end of this module, you'll be able to create dynamic applications using Dart language that can do calculations and some functionalities. 
+In this module, we will dig deeper into flutter widgets and we will learn some basic usages of Dart language. By the end of this module, you will be able to create dynamic applications, using Dart language, that can perform calculations and some functionalities. 
 
 
 
 
 
-In this lesson, we will create a profile page app.
-
-
-
-We will learn how to use these new Widgets:
+In this lesson, we will create a profile page app and learn how to use these new widgets:
 
  - **Image.asset**
  - **Column**
@@ -23,14 +19,15 @@ We will learn how to use these new Widgets:
 
 
 
+You will need to:
 
-1. We need to create a new flutter project called "**profile_page_app**"
+1. Create a new flutter project called "**profile_page_app**"
 
 > Note: to create a new flutter project, review flutter_m1_intro_to_flutter/02_run_first_app/**01_Create_new_Flutter_project**
 
 
 
-2. After that, we will remove the code that is inside the **main.dart**, then we will copy the code down, and paste it inside the **main.dart** file.
+2. Replace the code inside the **main.dart** with the code below.
 
    ```dart
    import 'package:flutter/material.dart';
@@ -62,13 +59,13 @@ We will learn how to use these new Widgets:
 
 
 
-3. After that run the app, you will see a white screen.
+3. Run the app, a white screen will appear.
 
-   > Note: to run the app, review flutter_m1_intro_to_flutter/02_run_first_app/**03_Run_the_application**
+   > Note: To run the app, review flutter_m1_intro_to_flutter/02_run_first_app/**03_Run_the_application**
 
 
 
-4. To change the background color for our home screen. We will use the **backgroundColor** named argument that inside **the Scaffold** widget.
+4. Change the home screen background color by using the **backgroundColor** property inside **the Scaffold** widget.
 
    ```dart
    Scaffold(
