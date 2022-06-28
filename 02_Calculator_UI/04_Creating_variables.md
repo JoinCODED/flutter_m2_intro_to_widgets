@@ -49,21 +49,21 @@ This line of code stores the styling `TextStyle(fontSize: 24, color: Colors.gree
   final BoxDecoration greyDecoration = BoxDecoration(
     color: Colors.grey[200],
     borderRadius: BorderRadius.circular(14),
-  ),
+  );
   final BoxDecoration greenDecoration = BoxDecoration(
     color: Colors.green[200],
     borderRadius: BorderRadius.circular(14),
-  ),
+  );
   final BoxDecoration redDecoration = BoxDecoration(
     color: Colors.red[100],
     borderRadius: BorderRadius.circular(14),
-  ),
+  );
 
 ```
 
 > **Note:** What you just did is called **Refactoring**, which leads to the same result, but creates a better code. Now, if you change the variable value of the greenTextStyle, it will change in all the buttons. 😉
 
-4. Add the text container that holds the values of the pressed numbers. This should look like the picture below. To do that, go to the column, and add this container as the first child.
+4. Add the text container that holds the values of the pressed numbers. This should look like the picture below. To do that, go to the column, and add the container below as the first child.
 
 ![screenshot](https://user-images.githubusercontent.com/24327781/133928283-eab43fd9-056a-40a6-9890-f61221d12c92.png)
 

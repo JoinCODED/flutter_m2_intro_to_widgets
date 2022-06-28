@@ -4,34 +4,45 @@ Now, add as many buttons as you need, but before that, you need to study the lay
 
 The column should consist of 5 rows, and each of them should have 4 buttons inside.
 
-1. Wrap the button `Container` with a **`Row`** widget
+10. Wrap the button `Container` with a **`Row`** widget
 
-   - Center the buttons inside the row using the property `mainAxisAlignment` as follows:
+- Center the buttons inside the row using the property `mainAxisAlignment` as follows:
 
-   ```dart
-   Row(
-     mainAxisAlignment: MainAxisAlignment.center`
-    // ...
-    )
-   ```
+```dart
+Row(
+  mainAxisAlignment: MainAxisAlignment.center,
+ // ...
+ )
+```
 
-2. Wrap that `Row` in a `Column`.
+11. Wrap that `Row` in a `Column`.
 
-   - Center the rows inside the column using the property `mainAxisAlignment` as follows:
+- Center the rows inside the column using the property `mainAxisAlignment` as follows:
 
-   ```dart
-    Column(
-     mainAxisAlignment: MainAxisAlignment.center`
-    // ...
-    )
-   ```
+```dart
+ Column(
+  mainAxisAlignment: MainAxisAlignment.center,
+ // ...
+ )
+```
 
->
 > ![chrome_iRITD3ou2k](https://user-images.githubusercontent.com/24327781/119711925-ad919a00-be25-11eb-82b4-d9ef6903a126.png)
 
-3. Add **`SafeArea`** widget to avoid intrusions on the top of our **`Column`** widget.
+12. Add **`SafeArea`** widget to avoid intrusions on the top of our **`Column`** widget.
+13. Duplicate the `Container` inside the Row 4 times:
 
-4. Duplicate the rows 5 times. Make sure you are inside `Column`:
+```dart
+  Row(
+    children: [
+     Container(/*...*/),
+     Container(/*...*/),
+     Container(/*...*/),
+     Container(/*...*/),
+    ]
+  )
+```
+
+14. Duplicate the `Row`s 5 times. Make sure you are inside `Column`:
 
 ```dart
   Column(
@@ -47,13 +58,13 @@ The column should consist of 5 rows, and each of them should have 4 buttons insi
 
 ![screenshot](https://media.giphy.com/media/XbxZ41fWLeRECPsGIJ/giphy.gif)
 
-5. Now, change the color and the text of the other buttons.
+15. Change the color and the text of the other buttons.
 
 > Note: if you do not find these characters you can copy them from here:
 >
 > `C` `+/-` `%` `÷` `x`
 
-1.  The `0` button from the screenshot below is bigger. Remove one `Container`, and resize the width of the zero `Container` widget as follows:
+16. Remove one `Container`, and resize the width of the zero `Container` widget as follows:
 
 ```dart
 Container(

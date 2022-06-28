@@ -1,4 +1,4 @@
-1. Use the **`decoration`** named argument inside the **`Container`** widget, to add some styling to it such as **background color** and **border radius**.
+6. Use the **`decoration`** named argument inside the **`Container`** widget, to add some styling to it such as **background color** and **border radius**.
 
 ```dart
 Container(
@@ -15,7 +15,7 @@ Container(
 
 ![screenshot](https://user-images.githubusercontent.com/24327781/119705628-9ac79700-be1e-11eb-80e8-3a6ed548415b.gif)
 
-2. Add **`Text`** widget to the child named argument inside the **`Container`** widget.
+7. Add **`Text`** widget to the child named argument inside the **`Container`** widget.
 
 ```dart
 Container(
@@ -29,7 +29,7 @@ Container(
       ),
 ```
 
-3. Add a style to the **`Text`** widget
+8. Add a style to the **`Text`** widget
 
 ```dart
 Text(
@@ -41,7 +41,7 @@ Text(
 ),
 ```
 
-4. Give the **`container`** a margin, and center the text inside the button.
+9. Give the **`container`** a margin, and center the text inside the button.
 
 ```dart
 // This container represents a button
