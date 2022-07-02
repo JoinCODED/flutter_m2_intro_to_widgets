@@ -1,8 +1,11 @@
-When pressing a button, a certain action will happen. This action will only happen if you press the button. If you press the button twice, the action will excute twice on each click. We added the weirdo value `(){}` to `onPressed`. but what is that exactly?
+Whenever you press a button, a certain action will occur. In the previous section, you added the weird value `(){}` to `onPressed`. But what is it exactly?
 
-So far, we've seen that `child` is expecting some kind of a widget. That widget could be `Text`, `Button`, `Column`, `Row` and so on… But **`onPressed`** is something that expects an action that will happen after pressing the button. We can't pass widgets. We have to pass commands. To understand that easier. Let's assume that we're writing now in 2 different languages.
+So far, you have seen that `child` is expecting some kind of widget. That widget could be `Text`, `Button`, `Column`, `Row` and so on… However, **`onPressed`** expects an action when pressing the button. You can't pass widgets, you have to pass commands. To better understand, let's assume that you are writing in two different languages:
 
-1. Flutter widget language
-2. Dart logic language
+1. Flutter widget language.
+2. Dart logic language.
 
-Flutter widget language is going to be responsible for everything that's going to be shown on the screen. How they look like, what color is the button, how large is the font, and so on… Dart language can do commands, storing values, and adding some dynamics to the applications. When pressing a button, we want to do some sort of actions. If you want to calculate your grade for example, you need to do some calculations and add numbers together. We do that with Dart. We're going to learn Dart language more in the upcoming lessons.
+Flutter widget language is responsible for everything shown on the screen: what it looks like, the color of the button, the size of the font, and so on… Dart language can do commands, stores values, and adds some dynamics to the applications. 
+When we press a button, we want to do some sort of action. If you want to calculate your grade for example, you need to do some calculations and add numbers together. You do that with Dart.
+
+You are going to learn more about Dart language in the upcoming lessons.

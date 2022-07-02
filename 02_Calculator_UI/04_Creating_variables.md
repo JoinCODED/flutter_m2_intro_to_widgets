@@ -1,11 +1,15 @@
-If you see the text style for some of the **`Text`** widgets, you will note that we are repeating the code many times; the best practice is to make one variable that has the **`TextStyle`** object and use it inside our Text widgets multiple times.
+If you see the **`TextStyle`** for some of the **`Text`** widgets, you will note that you are repeating the same code multiple times, and repetitive code is the worst thing the programmer does, so the best practice is to make a variable that stores the **`TextStyle`** object and use it inside the Text widgets as many times as you want.
 
-This practice has two advantages:
+Why not repeat the code? Because of two main reasons:
 
-- Will make your code shorter.
-- When you want to change the size of text, you will change it one time in one place.
+- The code will get bigger as the project gets bigger.
+- A big and unorganized code requires more time and effort when it comes to fixing tiny or big bugs.
 
-1. Create a variable with the name `greenTextStyle` and give it the value of the styling that you are going to reuse for most of the buttons. To do that, write the following:
+Storing the repetitive code in a variable allows you to clean, organize, and understand the code when you get back to it after a long time, you will forget what you wrote and it will not make sense to you.
+
+Now, let's move to the next step and start cleaning the code a bit.
+
+1. Create a variable named `greenTextStyle` and give it the value of the styling object that you are going to reuse for most of the buttons, just like the code below:
 
 ```dart
 
@@ -14,9 +18,9 @@ class HomeScreen extends StatelessWidget {
   final TextStyle greenTextStyle = TextStyle(fontSize: 24, color: Colors.green);
 ```
 
-This line of code stores the styling `TextStyle(fontSize: 24, color: Colors.green)` under a variable name, and we called it `greenTextStyle`. Now every time you want to apply a styling like the above, just insert the name `greenTextStyle` that we created!
+This line of code stores the styling `TextStyle(fontSize: 24, color: Colors.green)` inside a variable named **`greenTextStyle`**. Now, whenever you need to use this styling, you can just call the variable **`greenTextStyle`**
 
-2. Change every container that has a green styling and replace the styling with the variable we created.
+2. Replace every **`TextStyle`** object in the container that has a green styling with the variable **`greenTextStyle`**.
 
 ```dart
 // Old
@@ -30,7 +34,7 @@ This line of code stores the styling `TextStyle(fontSize: 24, color: Colors.gree
   )
 ```
 
-3. Now let's create the other styling and box decorations variables under the previous variable, and repeat the same steps for all the buttons
+3. Create the other styling and box decoration variables and place them below the previous variable **`greenTextStyle`**, then repeat the same steps for replacing all **`TextStyle`** objects in the other buttons.
 
 ```dart
  final TextStyle whiteTextStyle = TextStyle(
@@ -45,21 +49,21 @@ This line of code stores the styling `TextStyle(fontSize: 24, color: Colors.gree
   final BoxDecoration greyDecoration = BoxDecoration(
     color: Colors.grey[200],
     borderRadius: BorderRadius.circular(14),
-  ),
+  );
   final BoxDecoration greenDecoration = BoxDecoration(
     color: Colors.green[200],
     borderRadius: BorderRadius.circular(14),
-  ),
+  );
   final BoxDecoration redDecoration = BoxDecoration(
     color: Colors.red[100],
     borderRadius: BorderRadius.circular(14),
-  ),
+  );
 
 ```
 
-> **Note:** What we just did is called **Refactoring**, which results with the same result, but a better code. Now if you change the variable value of the greenTextStyle, it will change for all the buttons. You don't need to go over button by button to change their stylings! 😉
+> **Note:** What you just did is called **Refactoring**, which leads to the same result, but creates a better code. Now, if you change the variable value of the greenTextStyle, it will change in all the buttons. 😉
 
-1. Now let's add the text container that holds the values of the pressed numbers. This should look like the following. To do that, go to the column, and add this container as the first child.
+4. Add the text container that holds the values of the pressed numbers. This should look like the picture below. To do that, go to the column, and add the container below as the first child.
 
 ![screenshot](https://user-images.githubusercontent.com/24327781/133928283-eab43fd9-056a-40a6-9890-f61221d12c92.png)
 

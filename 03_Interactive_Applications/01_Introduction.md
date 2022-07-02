@@ -1,9 +1,9 @@
 
-So we've seen how to create amazing user interfaces using the main layout widgets `Column`, `Row`, `Center`, `Continer` and others. But how can we make things interactive? 
+You learned how to create amazing user interfaces using the main layout widgets `Column`, `Row`, `Container`, and others. Now, how can you create interactive widgets? 
 
 
 
 ### Interactive mobile apps
 
-App interaction means that the mobile will interact with a certain type of input. This input might be touches on the screen, or typing on the keyboard, or even shaking the device. These all are kind of inputs to the mobile, and we can let the mobile app response to those interactions with the users. 
+An interactive app means that the mobile will interact with a certain type of input. This input could be touching the screen, typing on the keyboard, or even shaking the device. We can also make the mobile app respond to those interactions.
 
