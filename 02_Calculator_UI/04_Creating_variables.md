@@ -5,11 +5,11 @@ Why not repeat the code? Because of two main reasons:
 - The code will get bigger as the project gets bigger.
 - A big and unorganized code requires more time and effort when it comes to fixing tiny or big bugs.
 
-Storing the repetitive code in a variable allows you to clean, organize, and understand the code when you get back to it after a long time, because God knows what you had written.
+Storing the repetitive code in a variable allows you to clean, organize, and understand the code when you get back to it after a long time, you will forget what you wrote and it will not make sense to you.
 
 Now, let's move to the next step and start cleaning the code a bit.
 
-1. Create a variable named `greenTextStyle` and give it the value of the styling object that you are going to reuse for most of the buttons. just like the code below:
+1. Create a variable named `greenTextStyle` and give it the value of the styling object that you are going to reuse for most of the buttons, just like the code below:
 
 ```dart
 

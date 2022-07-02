@@ -1,4 +1,4 @@
-What if you want to display other information such as Name, Gender, and Hobbies? As you know, these pieces of information will be represented as texts, so you need to use the **Text** widget.
+What if you want to display other information such as **name**, **gender**, and **hobbies**? As you know, these pieces of information will be represented as texts, so you need to use the **Text** widget.
 
 In order to display these Widgets (Image, Text) from top to bottom, you need to use a layout widget called **Column**, which allows you to display widgets in a vertical array.
 
