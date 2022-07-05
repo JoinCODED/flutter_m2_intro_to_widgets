@@ -1,6 +1,4 @@
-# Box Decoration
-
-1. We will use **`decoration`** named argument inside the **`Container`**, which will help us to add some styling for the **`Container`** widget such as **background color** and **border radius**.
+6. Use the **`decoration`** named argument inside the **`Container`** widget, to add some styling to it such as **background color** and **border radius**.
 
 ```dart
 Container(
@@ -13,11 +11,11 @@ Container(
       ),
 ```
 
-> Note: **`decoration`** named argument takes **`BoxDecoration`** object, and inside **`BoxDecoration`**, we use `color` argument to give a color for our `Container` widget. Also, we use **`borderRadius`** argument to keep our border semi-circular.
+> Note: The **`decoration`** named argument takes **`BoxDecoration`** object. Inside **`BoxDecoration`**, use `color` named argument to give the `Container` widget a color. Finally, use **`borderRadius`** named argument to keep the border semi-circular.
 
 ![screenshot](https://user-images.githubusercontent.com/24327781/119705628-9ac79700-be1e-11eb-80e8-3a6ed548415b.gif)
 
-2. After that we will add **`Text`** widgets inside the child that inside the **`Container`** widget.
+7. Add **`Text`** widget to the child named argument inside the **`Container`** widget.
 
 ```dart
 Container(
@@ -31,7 +29,7 @@ Container(
       ),
 ```
 
-Also, we will add a style for our **`Text`** widget
+8. Add a style to the **`Text`** widget
 
 ```dart
 Text(
@@ -43,7 +41,7 @@ Text(
 ),
 ```
 
-Now, let's fix the styling of the container, so we give it a margin, and we center the text inside the button.
+9. Give the **`container`** a margin, and center the text inside the button.
 
 ```dart
 // This container represents a button

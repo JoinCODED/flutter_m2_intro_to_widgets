@@ -1,21 +1,22 @@
-There are many use cases for **`Container`** widget. We will get to know them in future lessons. But now we will learn about two use cases.
+A **`Container`** widget acts as a box for storing one widget or more, resizing and positioning them as the user wishes on the screen. There are many usages for the **`Container`**, don't hesitate to take a look at them 😉. But for now, you will go through two of its usages:
 
-1. We can use the **`Container`** widget, to align the widget inside the layout widget such as **`Column`** and **`Row`** widgets. In our case, we will align our image widget to be in the center of the home screen. So, we will use **`alignment`** named argument inside the Container widget, and this named argument takes the **`Alignment`** object.
+1. Aligning the widgets:
+ You can use the **`Container`** to align the widget inside the layout widget such as **`Column`** and **`Row`**. In your case, you will align your image widget to be in the center of the home screen by using the **`alignment`** named argument inside the Container widget, and this named argument takes the **`Alignment`** object.
 
 ```dart
 Container(
-              alignment: Alignment.center,  // <- here
-              child: Image.asset(
-                'assets/images/profile.png',
-                width: 200,
-                height: 200,
-              ),
-            )
+          alignment: Alignment.center,  // <- here
+          child: Image.asset(
+            'assets/images/profile.png',
+            width: 200,
+            height: 200,
+          ),
+        )
 ```
 
 ![screenshot](https://user-images.githubusercontent.com/24327781/119666042-9b4e3680-bdfa-11eb-95f1-1d6ed3b60f51.gif)
 
-2. Also, we will use the **Container** widget to align other text widgets, and we will keep them on left screen.
+You are going to apply the same named argument to **`Text`** widgets to align them to the left of the screen.
 
 ```dart
  Column(
@@ -55,13 +56,14 @@ The final result:
 
 ![screenshot](https://user-images.githubusercontent.com/24327781/119666521-10217080-bdfb-11eb-87aa-9e037fff762d.png)
 
-3. The other use case for the **`Container`** widget is to add a **`margin`** and **`padding`** between the Container widget and its child.
+2. Adding space around the container and between the border and its content:
+ The other usage of the **`Container`** widget is to add a **`margin`** to create an empty space around the **`Container`**, and **`padding`** to give space between the border and the child.
 
 ![screenshot](https://user-images.githubusercontent.com/24327781/119667023-86be6e00-bdfb-11eb-96e0-43c32f132a7e.png)
 
-So, in our case we will add margin for our image, and padding for the text widgets.
+In your case, you will add a margin for your image, and padding for the text widgets.
 
-> Note: if you want to add margin, you need to use **`margin`** named argument inside the **`Container`** widget, and if you want to add padding you will use **`padding`** named argument inside the **`Container`** widget. Both of these named arguments take **`EdgeInsets`** object.
+> Note: if you want to add a margin, you need to use the **`margin`** named argument inside the **`Container`** widget, and if you want to add padding, use the **`padding`** named argument inside the **`Container`** widget. Both of these named arguments take **`EdgeInsets`** object.
 
 ```dart
 Column(
@@ -101,11 +103,11 @@ Column(
         ),
 ```
 
-4. The last thing, we don't like the style of our text widgets.
+The style of your text widgets looks ugly. 🙂
 
 ![screenshot](https://media.giphy.com/media/67SXeoc8RLwvqCwn2F/giphy.gif)
 
-So, we will change them by using the **`TextStyle`** object inside **`Text`** widget.
+You can change them by using the **`TextStyle`** object inside **`Text`** widget.
 
 ```dart
 Scaffold(
