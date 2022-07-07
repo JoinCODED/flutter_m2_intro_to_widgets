@@ -56,8 +56,6 @@ Row(
   )
 ```
 
-![screenshot](https://media.giphy.com/media/XbxZ41fWLeRECPsGIJ/giphy.gif)
-
 15. Change the color and the text of the other buttons.
 
 > Note: if you do not find these characters you can copy them from here:
