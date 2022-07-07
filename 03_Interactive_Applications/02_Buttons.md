@@ -1,4 +1,3 @@
-![screenshot](https://lh3.googleusercontent.com/fYHrszVlofKouua7Oy3Wsa3CujcWI0l_PuqPlDXmLvCrZeCNRpQ70xNYTklZFh1MJfOeBe4xKV3tRnLSrt6kVsRjMQxFBwCzs8FjuwPGswCEtpoIL-8U7-6qvZQCqLlNQbkcHrq_)
 
 You can see buttons everywhere: a button to send a message, to call a friend, and to share an Instagram story with a friend. After you press the button, you expect the application to respond with some sort of action, like navigating you to another screen or doing something on the screen. We call this action a function, and in this module, we're going to learn how to create functions.
 
