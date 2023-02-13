@@ -175,4 +175,4 @@ Finally,
 
 ![screenshot](https://media.giphy.com/media/XbxZ41fWLeRECPsGIJ/giphy.gif)
 
-> **Note: You can find the full source code [here](https://github.com/Northwest-content/flutter_profile_page_app).**
+> **Note: You can find the full source code [here](https://github.com/JoinCODED/flutter_profile_page_app).**
