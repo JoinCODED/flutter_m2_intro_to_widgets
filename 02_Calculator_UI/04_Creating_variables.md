@@ -89,4 +89,4 @@ Container(
           ),
 ```
 
-> **Note: You can find the full source code [here](https://github.com/Northwest-content/flutter_calculator_ui_app).**
+> **Note: You can find the full source code [here](https://github.com/JoinCODED/flutter_bmi_calculator_starter).**
